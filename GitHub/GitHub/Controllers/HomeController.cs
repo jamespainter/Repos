@@ -26,5 +26,9 @@ namespace GitHub.Controllers
 
             return View();
         }
+
+		public ActionResult Thing() {
+			return View();
+		}
     }
 }
