@@ -200,7 +200,7 @@ UpgradeLog*.XML
 UpgradeLog*.htm
 
 # SQL Server files
-*.mdf
+
 *.ldf
 
 # Business Intelligence projects
@@ -240,3 +240,5 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/Week7Examples
+/CustomOrders/CustomerOrders/
